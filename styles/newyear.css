@@ -1,0 +1,13 @@
+/* common shared style */
+body{
+    font-family: 'Merriweather', serif;
+}
+/* banner related styles */
+.banner{
+    background-image: url('../images/banner_img.png');
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
