@@ -1,6 +1,10 @@
-/* common shared style */
-body{
+/* common shared style1 */
+.banner{
     font-family: 'Merriweather', serif;
+}
+/* common shared style2 */
+.font1{
+    font-family: 'Inter';
 }
 /* banner related styles */
 .banner{
@@ -10,4 +14,30 @@ body{
     border-radius: 16px;
     background-repeat: no-repeat;
     text-align: center;
+}
+/* banner-content */
+.banner-content{
+    color: #fff;
+    gap: 10px;
+}
+/* banner-greeting */
+.banner-greeting{
+    font-size: 25px;
+    padding-top: 170px;
+}
+/* banner-title */
+.banner-title{
+    font-size: 65px;
+    width: 600px;
+    height: 180px;
+    padding-left: 340px;
+}
+.off-content{
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700
+}
+.holiday-content{
+
 }
